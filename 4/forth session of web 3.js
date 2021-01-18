@@ -9,4 +9,3 @@ function fibonacci(x) {
     return arr[x]
 }
 console.log(fibonacci(8))
-© 2021 GitHub, Inc.
