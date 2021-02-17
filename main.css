@@ -150,6 +150,13 @@ a:hover{
 
 }
 
+.t3 a{
+    position: fixed;
+    left: calc(99% - 50px);
+    top: calc(90% - 50px);
+
+}
+
 .bg{
     position: absolute;
     width: 290px;
