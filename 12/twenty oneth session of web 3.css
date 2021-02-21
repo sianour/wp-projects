@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(151, 157, 163);
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    margin-left:50px ;
+    margin-top: 100px;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-top: 100px;
+    
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.box4 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin-left: 20px;
+    margin-top: 100px;
+}
