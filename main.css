@@ -157,6 +157,63 @@ a:hover{
 
 }
 
+.t5 a{
+    position: fixed;
+    right: calc(99% - 50px);
+    top: calc(30% - 50px);
+    
+
+}
+.t5 a{
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    color: white;
+    position: fixed;
+    left: calc(99% - 50px);
+    top: calc(30% - 50px);
+    transition-timing-function:linear;
+    transform: rotate(-45deg);
+    font-size: 90px;
+    text-align: center;
+    text-decoration: none;
+   
+}
+@keyframes tasks2 {
+
+    0%{transform: rotate(45deg);
+        
+   
+    }
+  
+    50%{
+        transform:translatex(40px) rotateY(4turn) ;
+
+    }
+    80%{
+        transform:translatex(40px) rotateY(8turn) ;
+        border-radius: 100%;
+
+    }
+    
+  
+    100%{
+        transform:translatex(40px) rotateY(8turn) ;
+        border-radius: 100%;
+    }
+}
+
+.rtl:hover{
+    
+    animation:tasks2 4s infinite;
+    animation-timing-function:infinite;
+    color: #f35626;
+    box-shadow: -2px 2px 2px 2px seashell;
+    text-shadow: 4px 2px 3px whitesmoke;
+   
+    
+}
+
 .bg{
     position: absolute;
     width: 290px;

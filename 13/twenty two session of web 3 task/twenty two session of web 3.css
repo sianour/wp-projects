@@ -1,0 +1,14 @@
+div{
+    width: 700px;
+    height: 70px;
+    margin: auto;
+    background-color: teal;
+    margin-bottom: 10px;
+    color: white;
+
+}
+.btn {
+    margin: 10px;
+    background-color: fuchsia;
+    color: yellow;
+}
