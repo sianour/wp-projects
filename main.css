@@ -164,21 +164,13 @@ a:hover{
     
 
 }
-.t5 a{
-    width: 100px;
-    height: 100px;
-    background-color: transparent;
-    color: white;
+
+.t6 a{
     position: fixed;
-    left: calc(99% - 50px);
-    top: calc(30% - 50px);
-    transition-timing-function:linear;
-    transform: rotate(-45deg);
-    font-size: 90px;
-    text-align: center;
-    text-decoration: none;
-   
+    right: calc(99% - 50px);
+    top: calc(50% - 50px);
 }
+
 @keyframes tasks2 {
 
     0%{transform: rotate(45deg);
@@ -213,6 +205,8 @@ a:hover{
    
     
 }
+
+
 
 .bg{
     position: absolute;

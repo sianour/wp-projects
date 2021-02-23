@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://luxbeauty.com</loc>
+
+      <changefreq>daily</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://luxbeauty.com/products.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://luxbeauty.com/blog.html</loc>
+
+      <changefreq>daily</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://luxbeauty.com/faq.html</loc>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.1</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://luxbeauty.com/about.html</loc>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.1</priority>
+
+   </url>
+   
+   
+
+</urlset> 
